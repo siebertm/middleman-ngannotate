@@ -5,7 +5,6 @@ require 'json'
 
 Bundler::GemHelper.install_tasks
 
-require "bundler/gem_tasks"
 require 'json'
 
 def clean_ngannotate
