@@ -1,4 +1,4 @@
-# middleman-ngannotate
+# (NOT MAINTAINED!) middleman-ngannotate
 
 `middleman-ngannotate` is an extension for the [Middleman] static site generator that adds [ngannotate](https://github.com/olov/ngannotate) processing for your JavaScript files to the asset pipeline. This will automatically insert the [AngularJS](http://angularjs.org) injector annotations to your declarations so that your code can minify correctly.
 
